@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1763172776 source:d:\universidad\2- segundo semestre\progrmación oo\poo\herencia\jmvs-decimas\main.cpp
+	<iostream>
+	"PersonaBien.h"
+	"PersonaRara.h"
+	"Persona.h"
+	"fstream"
+	<vector>
+	"Tablero.h"
+
+1763164161 source:d:\universidad\2- segundo semestre\progrmación oo\poo\herencia\jmvs-decimas\src\persona.cpp
+	"Persona.h"
+
+1763169108 d:\universidad\2- segundo semestre\progrmación oo\poo\herencia\jmvs-decimas\include\persona.h
+	<iostream>
+
+1763170245 source:d:\universidad\2- segundo semestre\progrmación oo\poo\herencia\jmvs-decimas\src\tablero.cpp
+	"Tablero.h"
+	<iostream>
+
+1763169972 d:\universidad\2- segundo semestre\progrmación oo\poo\herencia\jmvs-decimas\include\tablero.h
+	<iostream>
+
+1763169068 source:d:\universidad\2- segundo semestre\progrmación oo\poo\herencia\jmvs-decimas\src\personabien.cpp
+	"PersonaBien.h"
+	<iostream>
+
+1763168886 d:\universidad\2- segundo semestre\progrmación oo\poo\herencia\jmvs-decimas\include\personabien.h
+	"Persona.h"
+	"Tablero.h"
+	<iostream>
+
+1763169083 source:d:\universidad\2- segundo semestre\progrmación oo\poo\herencia\jmvs-decimas\src\personarara.cpp
+	"PersonaRara.h"
+	<iostream>
+
+1763169068 d:\universidad\2- segundo semestre\progrmación oo\poo\herencia\jmvs-decimas\include\personarara.h
+	"Persona.h"
+	"Tablero.h"
+	<iostream>
+
